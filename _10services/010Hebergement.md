@@ -5,7 +5,7 @@ permalink: /Hebergement/
 menu: Hébergement
 ---
 
-**QU'EST CE QUE C'EST?**
+## QU'EST CE QUE C'EST?
 
 Le modèle hébergement est celui de l’auberge espagnole : les équipes et les laboratoires apportent leurs serveurs et bénéficient de l’infrastructure en termes d’efficacité énergétique. 
 
@@ -14,7 +14,7 @@ Le bâtiment Virtual Data permet l'hébergement de serveurs informatique haute d
 * Grâce aux accès réseau haut débit, la délocalisation est transparente
 * L'accès 24x7 est garanti par la remise de badges aux responsables d'exploitation des laboratoires 
 
-**CONDITIONS D'UTILISATION**
+## CONDITIONS D'UTILISATION
 L'université met à disposition les racks "portes froides" indispensables au mode de fonctionnement de VirtualData. Les serveurs hébergés doivent être du type lames xxxJ. L'Université prend en charge les mêmes coûts que pour les serveurs hébergés localement : consommation électrique et accès réseau. 
 
 
