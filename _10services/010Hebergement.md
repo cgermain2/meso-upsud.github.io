@@ -5,7 +5,7 @@ permalink: /Hebergement/
 menu: Hébergement
 ---
 
-## QU'EST CE QUE C'EST?
+#### QU'EST CE QUE C'EST?
 
 Le modèle hébergement est celui de l’auberge espagnole : les équipes et les laboratoires apportent leurs serveurs et bénéficient de l’infrastructure en termes d’efficacité énergétique. 
 

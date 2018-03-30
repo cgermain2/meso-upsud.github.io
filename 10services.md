@@ -2,10 +2,11 @@
 layout: page
 title: Services
 menu: Services
-permalink: /10services/
+permalink: /services/
 ---
 
 Le mesocentre DataCenter@UPSud est constitué de l’ensemble des ressources d’Informatique Scientifique mutualisées de l’Université Paris Sud. 
+
 * Celles qui utilisent l’infrastructure à haute performance énergétique VirtualData 
 	* le [Cloud](/Cloud) de l'Université 
 	* l’ensemble des moyens informatiques des laboratoires de Paris Sud
