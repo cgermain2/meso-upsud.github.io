@@ -16,10 +16,10 @@ et administrées par le Laboratoire de l'Accélérateur Linéaire (LAL).
 * En ligne de commande 
 * A travers divers portails : Slipstream, JupyterHub, Horizon 
 
-Dans tous les cas, vous devez [obtenir un compte](https://openstack.lal.in2p3.fr/2016/02/16/registration/) 
+Dans tous les cas, vous devez obtenir un compte : 
 
-L'utilisation de Slipstream est obligatoire pour exécuter le logiciel Gaussian. <xxxC je crois que ce n'est plus d'actaulité ?>
-
+* [Utilisateurs Paris Sud](http://www.informatique-scientifique.u-psud.fr/form/index)
+* [Autres utilisateurs](https://openstack.lal.in2p3.fr/2016/02/16/registration/) 
 
 ## DOCUMENTATION
 
@@ -29,10 +29,6 @@ Plus d'information sur les [services offerts](https://openstack.lal.in2p3.fr/arc
  
 Pour les dernières informations, et toute la documentation, le [site du cloud](https://openstack.lal.in2p3.fr/)
  
-Pour accéder à JupyterHub xxx
-
-La mailing list
-
 ## SUPPORT
 
 Le [service de support](https://cloud-support.lal.in2p3.fr) est accessible 
